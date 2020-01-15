@@ -1,0 +1,4 @@
+org\example\RushGarage\ServingWebContentApplication.class
+org\example\RushGarage\GreetingController.class
+org\example\RushGarage\repos\MessageRepo.class
+org\example\RushGarage\domain\Message.class
